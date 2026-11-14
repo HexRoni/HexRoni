@@ -1,16 +1,20 @@
-## Hi there 👋
+[ReadMe.md](https://github.com/user-attachments/files/34839177/ReadMe.md)
 
-<!--
-**HexRoni/HexRoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+Hey, I'm HexRoni 👋<br><br>Developer | Cybersecurity Enthusiast | AI & Automation<br><br>I'm an aspiring developer with a strong interest in cybersecurity, ethical hacking, software development, and artificial intelligence.<br><br>I spend my time exploring how software and computer systems work, understanding security concepts, experimenting with different technologies, and developing practical tools and applications.<br><br>I'm particularly interested in the security side of technology: how networks communicate, how web applications work, how vulnerabilities occur, and how systems can be made more secure. Alongside cybersecurity, I also explore AI-powered tools and automation to understand how intelligent systems can simplify complex tasks.<br><br>🔐 Cybersecurity & Security Research<br><br>- Learning Ethical Hacking and cybersecurity fundamentals.<br>- Exploring Network Security, TCP/IP and port analysis.<br>- Studying Web Application Security and common vulnerabilities.<br>- Working with Kali Linux and Linux-based security tools.<br>- Exploring vulnerability assessment and security testing.<br>- Interested in understanding system security and defensive techniques.<br><br>💻 Development & Technologies<br><br>- Languages: Python, JavaScript, HTML, CSS<br>- AI & Automation: AI Agents, OpenRouter, Automated Workflows<br>- Operating Systems: Windows, Linux, Kali Linux<br>- Development Tools: VS Code, Git, GitHub, VirtualBox<br>- Web Development: Frontend, Backend and Application Development<br><br>🤖 AI & Automation<br><br>I'm also exploring AI agents and automation systems, particularly how they can be used for research, development, content workflows, and everyday tasks.<br><br>I'm interested in building systems that connect different tools, automate repetitive processes, and make practical use of AI models.<br><br>🚀 Current Focus<br><br>- Expanding my knowledge of Cybersecurity and Ethical Hacking.<br>- Practising networking and web security concepts.<br>- Building Python-based tools and applications.<br>- Exploring AI agents and intelligent automation.<br>- Developing and experimenting with web projects.<br><br>📌 GitHub<br><br>Here, I share my projects, experiments, code, and things I'm learning along the way.<br><br>Find me on GitHub: "@HexRoni" (https://github.com/HexRoni)<br><br>---<br><br>Learn the system. Understand its weaknesses. Build something better.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/sCpQ78E4M) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vytrnae) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ https://in.linkedin.com/in/swapnadip-dey-4568bb373) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Roni_9679) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swapnadipdey2007@gamil.com) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=HexRoni&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=HexRoni&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HexRoni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=HexRoni&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
